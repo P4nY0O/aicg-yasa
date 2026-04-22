@@ -1,0 +1,11 @@
+# YASA 引擎（体积大，从官方仓库自行获取）
+YASA-Engine-main/
+YASA-Engine-main.zip
+
+# 运行时产物
+scripts/pending-scans.json
+logs/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db

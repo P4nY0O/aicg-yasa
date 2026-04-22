@@ -1,0 +1,18 @@
+{
+  "js": {
+    "language": "javascript",
+    "ruleConfigFile": "YASA-Engine-main/resource/example-rule-config/rule_config_js.json"
+  },
+  "ts": {
+    "language": "javascript",
+    "ruleConfigFile": "YASA-Engine-main/resource/example-rule-config/rule_config_js.json"
+  },
+  "jsx": {
+    "language": "javascript",
+    "ruleConfigFile": "YASA-Engine-main/resource/example-rule-config/rule_config_js.json"
+  },
+  "tsx": {
+    "language": "javascript",
+    "ruleConfigFile": "YASA-Engine-main/resource/example-rule-config/rule_config_js.json"
+  }
+}
